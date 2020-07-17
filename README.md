@@ -1,1 +1,0 @@
-# js-ass-06-master
